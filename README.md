@@ -9,6 +9,9 @@
 - Define a Bank class to manage customer accounts and transactions.
 - Implement methods to add new customers, open accounts, close accounts, and perform other bank-related operations.
 
+# - main
+- main.cpp contains the whole program with above mentioned classes
+
 # Why using std::vector?
 - Here the number of customer is not fixed so using " std::vector " allows us to remove customers dynamically without worrying about the size of container
 - It provides convenient methods for adding, removing, and accessing elements, making it suitable for storing a collection of customer objects
